@@ -1,0 +1,15 @@
+{
+  "rpo.yetanotherglint.title": "YetAnotherGlint",
+
+  "rpo.yetanotherglint.itemGlint": "Enchanted item glint",
+  "rpo.yetanotherglint.itemGlint.variantOne": "Variant 1",
+  "rpo.yetanotherglint.itemGlint.variantTwo": "Variant 2",
+  "rpo.yetanotherglint.itemGlint.variantThree": "Variant 3",
+  "rpo.yetanotherglint.itemGlint.variantVanilla": "Vanilla",
+
+  "rpo.yetanotherglint.entityGlint": "Enchanted armor glint",
+  "rpo.yetanotherglint.entityGlint.variantOne": "Variant 1",
+  "rpo.yetanotherglint.entityGlint.variantTwo": "Variant 2",
+  "rpo.yetanotherglint.entityGlint.variantThree": "Variant 3",
+  "rpo.yetanotherglint.entityGlint.variantVanilla": "Vanilla"
+}

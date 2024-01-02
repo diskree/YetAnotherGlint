@@ -1,0 +1,14 @@
+{
+  "id": "yetanotherglint",
+  "version": 7,
+  "capabilities": [
+    "FileFilter",
+    "DirFilter"
+  ],
+  "conf": {
+    "itemGlint": [
+      "variantOne",
+      "variantVanilla"
+    ]
+  }
+}

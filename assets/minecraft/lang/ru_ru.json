@@ -1,0 +1,15 @@
+{
+  "rpo.yetanotherglint.title": "YetAnotherGlint",
+
+  "rpo.yetanotherglint.itemGlint": "Блеск зачарованных предметов",
+  "rpo.yetanotherglint.itemGlint.variantOne": "Тип 1",
+  "rpo.yetanotherglint.itemGlint.variantTwo": "Тип 2",
+  "rpo.yetanotherglint.itemGlint.variantThree": "Тип 3",
+  "rpo.yetanotherglint.itemGlint.variantVanilla": "Vanilla",
+
+  "rpo.yetanotherglint.entityGlint": "Блеск надетой брони",
+  "rpo.yetanotherglint.entityGlint.variantOne": "Тип 1",
+  "rpo.yetanotherglint.entityGlint.variantTwo": "Тип 2",
+  "rpo.yetanotherglint.entityGlint.variantThree": "Тип 3",
+  "rpo.yetanotherglint.entityGlint.variantVanilla": "Vanilla"
+}
