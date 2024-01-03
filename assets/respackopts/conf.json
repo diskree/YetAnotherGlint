@@ -1,14 +1,30 @@
 {
   "id": "yetanotherglint",
-  "version": 7,
+  "version": 12,
   "capabilities": [
     "FileFilter",
     "DirFilter"
   ],
   "conf": {
     "itemGlint": [
-      "variantOne",
-      "variantVanilla"
+      "style1",
+      "style2",
+      "style3",
+      "style4",
+      "style5",
+      "style6",
+      "style7",
+      "off"
+    ],
+    "armorGlint": [
+      "style1",
+      "style2",
+      "style3",
+      "style4",
+      "style5",
+      "style6",
+      "style7",
+      "off"
     ]
   }
 }

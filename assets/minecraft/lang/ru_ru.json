@@ -1,15 +1,23 @@
 {
   "rpo.yetanotherglint.title": "YetAnotherGlint",
 
-  "rpo.yetanotherglint.itemGlint": "Блеск зачарованных предметов",
-  "rpo.yetanotherglint.itemGlint.variantOne": "Тип 1",
-  "rpo.yetanotherglint.itemGlint.variantTwo": "Тип 2",
-  "rpo.yetanotherglint.itemGlint.variantThree": "Тип 3",
-  "rpo.yetanotherglint.itemGlint.variantVanilla": "Vanilla",
+  "rpo.yetanotherglint.itemGlint": "Блеск предметов",
+  "rpo.yetanotherglint.itemGlint.64x1": "64 x 1 (по умолч.)",
+  "rpo.yetanotherglint.itemGlint.128x1": "128 x 1",
+  "rpo.yetanotherglint.itemGlint.128x2": "128 x 2",
+  "rpo.yetanotherglint.itemGlint.256x1": "256 x 1",
+  "rpo.yetanotherglint.itemGlint.256x2": "256 x 2",
+  "rpo.yetanotherglint.itemGlint.256x3": "256 x 3",
+  "rpo.yetanotherglint.itemGlint.256x4": "256 x 4",
+  "rpo.yetanotherglint.itemGlint.off": "ВЫКЛ.",
 
-  "rpo.yetanotherglint.entityGlint": "Блеск надетой брони",
-  "rpo.yetanotherglint.entityGlint.variantOne": "Тип 1",
-  "rpo.yetanotherglint.entityGlint.variantTwo": "Тип 2",
-  "rpo.yetanotherglint.entityGlint.variantThree": "Тип 3",
-  "rpo.yetanotherglint.entityGlint.variantVanilla": "Vanilla"
+  "rpo.yetanotherglint.armorGlint": "Блеск брони",
+  "rpo.yetanotherglint.armorGlint.64x1": "64 x 1 (по умолч.)",
+  "rpo.yetanotherglint.armorGlint.128x1": "128 x 1",
+  "rpo.yetanotherglint.armorGlint.128x2": "128 x 2",
+  "rpo.yetanotherglint.armorGlint.256x1": "256 x 1",
+  "rpo.yetanotherglint.armorGlint.256x2": "256 x 2",
+  "rpo.yetanotherglint.armorGlint.256x3": "256 x 3",
+  "rpo.yetanotherglint.armorGlint.256x4": "256 x 4",
+  "rpo.yetanotherglint.armorGlint.off": "ВЫКЛ."
 }

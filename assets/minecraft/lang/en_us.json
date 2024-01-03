@@ -1,15 +1,23 @@
 {
   "rpo.yetanotherglint.title": "YetAnotherGlint",
 
-  "rpo.yetanotherglint.itemGlint": "Enchanted item glint",
-  "rpo.yetanotherglint.itemGlint.variantOne": "Variant 1",
-  "rpo.yetanotherglint.itemGlint.variantTwo": "Variant 2",
-  "rpo.yetanotherglint.itemGlint.variantThree": "Variant 3",
-  "rpo.yetanotherglint.itemGlint.variantVanilla": "Vanilla",
+  "rpo.yetanotherglint.itemGlint": "Enchanted Item Glint",
+  "rpo.yetanotherglint.itemGlint.style1": "64 x 1 (default)",
+  "rpo.yetanotherglint.itemGlint.style2": "128 x 1",
+  "rpo.yetanotherglint.itemGlint.style3": "128 x 2",
+  "rpo.yetanotherglint.itemGlint.style4": "256 x 1",
+  "rpo.yetanotherglint.itemGlint.style5": "256 x 2",
+  "rpo.yetanotherglint.itemGlint.style6": "256 x 3",
+  "rpo.yetanotherglint.itemGlint.style7": "256 x 4",
+  "rpo.yetanotherglint.itemGlint.off": "OFF",
 
-  "rpo.yetanotherglint.entityGlint": "Enchanted armor glint",
-  "rpo.yetanotherglint.entityGlint.variantOne": "Variant 1",
-  "rpo.yetanotherglint.entityGlint.variantTwo": "Variant 2",
-  "rpo.yetanotherglint.entityGlint.variantThree": "Variant 3",
-  "rpo.yetanotherglint.entityGlint.variantVanilla": "Vanilla"
+  "rpo.yetanotherglint.armorGlint": "Enchanted Armor Glint",
+  "rpo.yetanotherglint.armorGlint.style1": "64 x 1 (default)",
+  "rpo.yetanotherglint.armorGlint.style2": "128 x 1",
+  "rpo.yetanotherglint.armorGlint.style3": "128 x 2",
+  "rpo.yetanotherglint.armorGlint.style4": "256 x 1",
+  "rpo.yetanotherglint.armorGlint.style5": "256 x 2",
+  "rpo.yetanotherglint.armorGlint.style6": "256 x 3",
+  "rpo.yetanotherglint.armorGlint.style7": "256 x 4",
+  "rpo.yetanotherglint.armorGlint.off": "OFF"
 }
