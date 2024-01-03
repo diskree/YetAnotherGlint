@@ -16,4 +16,6 @@ This resource pack changes the glint texture of enchanted items and equipped arm
 
 This resource pack has [Respackopts](https://modrinth.com/mod/respackopts) mod support! You can separately adjust the glint of both items and equipped armor. There are 7 texture options in choose. It is also possible to turn off the glint.
 
+![image](https://github.com/diskree/YetAnotherGlint/assets/96978370/db74b2f6-4d2b-4ffd-853e-0c102f71bba5)
+
 This is similar to Unobtrusive Enchantment Glint from [Vanilla Tweaks](https://vanillatweaks.net/), but better.
