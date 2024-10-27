@@ -2,22 +2,10 @@
   "rpo.yetanotherglint.title": "YetAnotherGlint",
 
   "rpo.yetanotherglint.itemGlint": "Блеск предметов",
-  "rpo.yetanotherglint.itemGlint.64x1": "64 x 1 (по умолч.)",
-  "rpo.yetanotherglint.itemGlint.128x1": "128 x 1",
-  "rpo.yetanotherglint.itemGlint.128x2": "128 x 2",
-  "rpo.yetanotherglint.itemGlint.256x1": "256 x 1",
-  "rpo.yetanotherglint.itemGlint.256x2": "256 x 2",
-  "rpo.yetanotherglint.itemGlint.256x3": "256 x 3",
-  "rpo.yetanotherglint.itemGlint.256x4": "256 x 4",
+  "rpo.yetanotherglint.itemGlint.style1": "64 x 1 (по умолч.)",
   "rpo.yetanotherglint.itemGlint.off": "ВЫКЛ.",
 
   "rpo.yetanotherglint.armorGlint": "Блеск брони",
-  "rpo.yetanotherglint.armorGlint.64x1": "64 x 1 (по умолч.)",
-  "rpo.yetanotherglint.armorGlint.128x1": "128 x 1",
-  "rpo.yetanotherglint.armorGlint.128x2": "128 x 2",
-  "rpo.yetanotherglint.armorGlint.256x1": "256 x 1",
-  "rpo.yetanotherglint.armorGlint.256x2": "256 x 2",
-  "rpo.yetanotherglint.armorGlint.256x3": "256 x 3",
-  "rpo.yetanotherglint.armorGlint.256x4": "256 x 4",
+  "rpo.yetanotherglint.armorGlint.style1": "64 x 1 (по умолч.)",
   "rpo.yetanotherglint.armorGlint.off": "ВЫКЛ."
 }
