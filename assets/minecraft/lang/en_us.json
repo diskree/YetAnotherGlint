@@ -12,9 +12,9 @@
   "rpo.yetanotherglint.itemGlint.off": "OFF",
 
   "rpo.yetanotherglint.armorGlint": "Enchanted Armor Glint",
-  "rpo.yetanotherglint.armorGlint.style1": "64 x 1 (default)",
+  "rpo.yetanotherglint.armorGlint.style1": "64 x 1",
   "rpo.yetanotherglint.armorGlint.style2": "128 x 1",
-  "rpo.yetanotherglint.armorGlint.style3": "128 x 2",
+  "rpo.yetanotherglint.armorGlint.style3": "128 x 2 (default)",
   "rpo.yetanotherglint.armorGlint.style4": "256 x 1",
   "rpo.yetanotherglint.armorGlint.style5": "256 x 2",
   "rpo.yetanotherglint.armorGlint.style6": "256 x 3",
